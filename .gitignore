@@ -1,0 +1,4 @@
+venv/
+generated_video.gif
+.DS_Store
+input_video.gif
