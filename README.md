@@ -1,4 +1,5 @@
 # Video Overfitter
+**WATCH THIS VIDEO FOR CONTEXT**: [https://youtu.be/-9GCtKRqYP8](https://youtu.be/-9GCtKRqYP8)
 
 ## About
 This script trains a neural network that takes noise as input and creates an "AI-generated video" using a training dataset of one video. I have a quickstart for experienced Python users, and a full description of how to run the script for those without coding experience. I am highly open to merging pull requests that optimize the script, create a UI or more intuitive CLI, add features, etc.
